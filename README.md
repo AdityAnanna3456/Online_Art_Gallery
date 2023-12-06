@@ -1,5 +1,5 @@
 # ART GALLERY
-![Screenshot (61)](https://github.com/Harshini620/artgallery/assets/134605084/aa6bf570-c1d4-49d6-8f85-0f69284ad24b)
+
 # Objective
 Online Art Gallery is an online application, which is used to manage all information related to art works available, famous artists, types of arts, all art styles, price, orders, customer and the time required for delivering the arts. Artist can register through online for being a member in the art gallery and each artist can upload the digital copy of their art work under the respective categories. They can also host their art work for fixed price. Customer can also register through online and they can browse art works that are arranged in different categories. The Online Art Gallery is updated daily, so the user can view and buy the latest collection of arts from anywhere in the state.  Each customer and artist can view and update their account information. Each artist can view and update their artworks uploaded. An artist can set the price for their artwork. We add Tk100 as commission on the price quoted by artist. Each customer has the right to purchase an art work using the integrated payment gateway. After valid payment the art work will be shipped within 15 days. Each artist view, update and delete their artworks
 # Things I 'CODE' with 
@@ -18,18 +18,6 @@ Online Art Gallery is an online application, which is used to manage all informa
 * browse the file in directory[db/artharsh.sql].
 * after importing successfully, open any browser and type http://localhost/artgallery
 * first register and then login
-* admin login details Email=harsh@gmail.com or  Password=harsh.
-user login details Email=rathi@gmail.com or  Password=rathi.
-artist login details Email=nila@gmail.com or  Password=nila.
-# Screenshots
-![Screenshot (73)](https://github.com/Harshini620/artgallery/assets/134605084/c154c093-267b-4ec3-bfdb-6449d9a4c129)
-![Screenshot (61)](https://github.com/Harshini620/artgallery/assets/134605084/50af7c87-3f4b-405f-8970-0fa47f3f7ee0)
-![Screenshot (74)](https://github.com/Harshini620/artgallery/assets/134605084/03b3abed-abe3-41bc-b130-ab009a716c6b)
-![Screenshot (75)](https://github.com/Harshini620/artgallery/assets/134605084/dd36ab62-a126-4d87-988e-1f928096c6a2)
-![Screenshot (76)](https://github.com/Harshini620/artgallery/assets/134605084/176fc565-c392-48fa-b685-2d0ecfe303c3)
-![Screenshot (79)](https://github.com/Harshini620/artgallery/assets/134605084/0be59217-8f27-4d4c-8906-74ea5841bfb7)
-![Screenshot (77)](https://github.com/Harshini620/artgallery/assets/134605084/1163d729-96b5-4dd9-8cbd-81c5fa2f69d1)
-![Screenshot (78)](https://github.com/Harshini620/artgallery/assets/134605084/1741a31e-4eea-4adf-b544-9c035f9aaa67)
-![Screenshot (80)](https://github.com/Harshini620/artgallery/assets/134605084/19aeccf0-0f2c-42a7-9314-0a2b7ecb6aaa)
-![Screenshot (81)](https://github.com/Harshini620/artgallery/assets/134605084/9ce18619-9838-4fc9-9861-7cbd029ad407)
-![Screenshot (83)](https://github.com/Harshini620/artgallery/assets/134605084/c7141af3-6b51-4e41-b625-7a55fe1ea5d5)
+* admin login details Email=bob@yahoo.com or  Password=bobworld567.
+user login details Email= adityananna14@gmail.com or  Password=Adityvirgo890.
+artist login details Email=smit@gmail.com or  Password=smithouse78.
