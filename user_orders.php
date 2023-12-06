@@ -54,7 +54,7 @@ if(isset($_POST['order_btn'])){
             $total_price = ($row3['price'] * $row3['quantity']);
             $final_price += $total_price;
    ?>
-   <p> <?php echo $row3['name']; ?> <span>(<?php echo '₹'.$row3['price'].'/-'.'  '. $row3['quantity']; ?>)</span> </p>
+   <p> <?php echo $row3['name']; ?> <span>(<?php echo 'Tk'.$row3['price'].'/-'.'  '. $row3['quantity']; ?>)</span> </p>
    <?php
       }
    }else{
