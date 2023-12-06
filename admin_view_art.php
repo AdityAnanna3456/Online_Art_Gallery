@@ -82,7 +82,7 @@ if(isset($_GET['delete']))
             <td><img src="images/<?php echo $row['image']; ?>" height="100" alt=""></td>
             <td><?php echo $row['name']; ?></td>
             <td><?php echo $row['artist_name']; ?></td>
-            <td>₹<?php echo $row['price']; ?>/-</td>
+            <td>Tk<?php echo $row['price']; ?>/-</td>
             <td><?php echo $row['art_type']; ?></td>
             <td><?php echo $row['theme']; ?></td>
             <td><?php echo $row['length']; ?></td>

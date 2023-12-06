@@ -70,7 +70,7 @@ if(isset($_GET['delete'])){
             <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
             <select name="update_payment">
                <option value="" selected disabled><?php echo $row['status']; ?></option>
-               <option value="₹<?php echo $row['final_price']?> is credited">credited</option>
+               <option value="Tk<?php echo $row['final_price']?> is credited">credited</option>
                <option value="pending">pending</option>
             </select>
             <button id="remove" type="submit" name="update" class="btn"><i class="fas fa-edit"></i>update<button>

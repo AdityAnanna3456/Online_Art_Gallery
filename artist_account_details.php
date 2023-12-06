@@ -44,7 +44,7 @@ include 'artist_header.php'; ?>
 		Banks:
 		<select name="b_name" class="box">
 			<option disabled selected>Select Your Bank</option>
-			<option value="SBI">State Bank Of India</option>
+			<option value="Bangladesh Bank">Bangladesh Bank</option>
 			<option value="ICICI">ICICI Bank</option>
 			<option value="Canara">Canara Bank</option>
 	   </select>
