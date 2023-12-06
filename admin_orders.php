@@ -75,11 +75,11 @@ if(isset($_GET['delete'])){
             <input type="hidden" name="order_id" value="<?php echo $row['order_id']; ?>">
             <select name="update_payment">
                <option value="" selected disabled><?php echo $row['payment_status']; ?></option>
-               <option value="ArtWorld has accepted your order">ArtWorld has accepted your order</option>
+               <option value="ArtWorld has accepted your order">ArtCart has accepted your order</option>
                <option value="your item has been shipped">your item has been shipped</option>
                <option value="your order is arriving soon">your order is arriving soon</option>
                <option value="your order has almost reached">your order has almost reached</option>
-               <option value="Your order from ArtWorld was delivered">Your order from ArtWorld was delivered</option>
+               <option value="Your order from ArtWorld was delivered">Your order from ArtCart was delivered</option>
                <option value="completed">completed</option>
             </select>
             <button type="submit" name="update_order" class="btn"><i class="fas fa-edit"></i>update<button>

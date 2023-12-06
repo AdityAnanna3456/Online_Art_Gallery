@@ -25,10 +25,10 @@ include 'artist_header.php'; ?>
       <div class="box">
           <div class="image"><img src="images/<?php echo $row['image']; ?>" alt=""></div>
           <div class="name"><?php echo $row['name']; ?></div>
-          <p>Your art price : <span>₹<?php echo $row['price'] ?>/-</span></p>
-          <p>Our commission : <span>₹100/-</span></p>
+          <p>Your art price : <span>Tk<?php echo $row['price'] ?>/-</span></p>
+          <p>Our commission : <span>Tk100/-</span></p>
           <p>-------------------------------------</p>
-          <p>Total price : <span>₹<?php echo $row['final_price'] ?>/-</span></p> 
+          <p>Total price : <span>Tk<?php echo $row['final_price'] ?>/-</span></p> 
           <p> Status : <span><?php echo $row['status'] ?></span> </p>         
       </div>
       <?php

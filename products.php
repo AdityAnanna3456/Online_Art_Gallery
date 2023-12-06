@@ -1,7 +1,7 @@
 <form action="" method="post" class="box">
 <div class="image"><img src="images/<?php echo $row['image']; ?>" alt=""></div>
    <div class="name"><?php echo $row['name']; ?></div>
-   <h2>₹<?php echo $row['price']; ?>/-</h2>
+   <h2>Tk<?php echo $row['price']; ?>/-</h2>
    <p>Artist Name: <span><?php echo $row['artist_name']; ?></span></p>
    <p>Art Type: <span><?php echo $row['art_type']; ?></span></p>
    <p>Theme  : <span><?php echo $row['theme']; ?></span></p>

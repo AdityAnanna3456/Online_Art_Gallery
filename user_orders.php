@@ -98,21 +98,16 @@ if(isset($_POST['order_btn'])){
          <div class="inputBox">
             <span>city :</span>
             <select name="city">
-               <option value="tirunelveli">tirunelveli</option>
-               <option value="tuticorin">tuticorin</option>
-               <option value="tiruchendhur">tiruchendhur</option>
+               <option value="Dhaka">Dhaka</option>
+               <option value="Chittagong">Chittagong</option>
+               <option value="Shylet">Shylet</option>
             </select>
          </div>
-         <div class="inputBox">
-            <span>state :</span>
-            <select name="state">
-               <option value="tamilnadu">tamilnadu</option>
-            </select>
-         </div>
+        
          <div class="inputBox">
             <span>country :</span>
             <select name="country">
-               <option value="india">india</option>
+               <option value="Bangladesh">Bangladesh</option>
             </select>
          </div>
          <div class="inputBox">

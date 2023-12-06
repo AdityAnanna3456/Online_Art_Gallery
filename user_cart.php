@@ -50,7 +50,7 @@ if(isset($_GET['delete_all'])){
       <tr>
          <td><img src="images/<?php echo $row['image']; ?>" height="100" alt=""></td>
          <td><?php echo $row['name']; ?></td>
-         <td>₹<?php echo $row['price']; ?>/-</td>
+         <td>Tk<?php echo $row['price']; ?>/-</td>
          <td>      
          <form action="" method="post">
             <input type="hidden" name="id"  value="<?php echo $row['c_id']; ?>" >
@@ -69,7 +69,7 @@ if(isset($_GET['delete_all'])){
       <tr class="table-bottom">
          <td><a href="user_products.php" class="option-btn" style="margin-top: 0;">continue shopping</a></td>
          <td colspan="3">grand total</td>
-         <td>₹<?php echo $grand_total; ?>/-</td>
+         <td>Tk<?php echo $grand_total; ?>/-</td>
          <td><a href="user_cart.php?delete_all" onclick="return confirm('are you sure you want to delete all?');" class="remove-btn"> <i class="fas fa-trash"></i> delete all </a></td>
       </tr>
       </tbody>

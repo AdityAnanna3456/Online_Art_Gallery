@@ -47,7 +47,7 @@ u{
 <h1 class="title"> <span>tips for </span>artist</h1>
 <div class="box">
 <p> Once you register with us by filling the basic information, click on 'ADD ARTWORK'. Upload all your artworks one by one, with filling up the necessary information. </p>
-<p> We add our commission ₹100 for every artwork you uploaded. </p>
+<p> We add our commission Tk100 for every artwork you uploaded. </p>
 <br>
 <p><span>Tips to Upload images:</span></p>
 <p><span>•</span> Ensure that you click good quality images as images of poor quality might affect the purchasing decision of the buyer.</p>
@@ -59,7 +59,7 @@ u{
 <p><span>•</span> Pack the box with water proof material & courier on following address.</p>
 <br><br>
 <center>
-<p><span>&nbsp; <i class="fa-solid fa-house" style="color:#d3ad7f"></i> Address : </span>&nbsp;101,Art Gallery,<br>&nbsp; Raj Nagar, Palayamkottai, Tirunelveli.</p></center>
+<p><span>&nbsp; <i class="fa-solid fa-house" style="color:#d3ad7f"></i> Address : </span>&nbsp;101,Art Gallery,<br>&nbsp; Katabon, Dhaka, Dhaka.</p></center>
 </div>
 </div>
 </section>

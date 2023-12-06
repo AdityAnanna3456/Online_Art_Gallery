@@ -29,7 +29,7 @@ if(!isset($user_id)){
          <p> address : <span><?php echo $row['address']; ?></span> </p>
          <p> payment method : <span><?php echo $row['method']; ?></span> </p>
          <p> your orders : <span><?php echo $row['total_products']; ?></span> </p>
-         <p> total price : <span>₹<?php echo $row['total_price']; ?>/-</span> </p>
+         <p> total price : <span>Tk<?php echo $row['total_price']; ?>/-</span> </p>
          <center><br><hr width="100%" color="grey" size="4"></center>
          <p> order status : <span style="color:<?php if($row['payment_status'] == 'pending'){ echo 'red'; }else{ echo 'green'; } ?>;"><?php echo $row['payment_status']; ?></span> </p>
          </div>
