@@ -63,7 +63,7 @@ if(isset($_POST['order_btn'])){
    ?>
    <br><center>
    <br><hr width="50%" color="grey" size="3"></center>
-   <div class="grand-total"> grand total : <span>₹<?php echo $final_price; ?>/-</span> </div>
+   <div class="grand-total"> grand total : <span>Tk<?php echo $final_price; ?>/-</span> </div>
 </section>
 <section class="user-orders">
    <form action="" method="post">
