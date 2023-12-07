@@ -67,6 +67,7 @@ if(isset($_POST['update_profile'])){
 }
 ?>
 </section>
+<?php include 'footer.php'; ?>
 <script src="js/script.js"></script>
 </body>
 </html>

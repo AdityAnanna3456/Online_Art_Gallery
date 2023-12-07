@@ -105,6 +105,7 @@ if(isset($_POST['update_order'])){
    </table>
 </section>
 <center><button onclick="window.print()" class="btnn">print report</button></center>
+<?php include 'footer.php'; ?>
 <script src="js/admin_script.js"></script>
 </body>
 </html>

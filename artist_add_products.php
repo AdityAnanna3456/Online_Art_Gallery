@@ -89,6 +89,7 @@ if(isset($_POST['add_artwork']))
       <input type="submit" value="add artwork" name="add_artwork" class="btn">
    </form>
 </section>
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
 </body>
 </html>

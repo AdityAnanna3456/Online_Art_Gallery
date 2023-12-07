@@ -158,6 +158,7 @@ if(isset($_GET['delete']))
    ?>
 </section>
 <center><button onclick="window.print()" class="btnn">print report</button></center>
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
 </body>
 </html>

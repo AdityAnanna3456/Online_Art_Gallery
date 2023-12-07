@@ -52,7 +52,7 @@ u{
 <p><span>Tips to Upload images:</span></p>
 <p><span>•</span> Ensure that you click good quality images as images of poor quality might affect the purchasing decision of the buyer.</p>
 <p><span>•</span> Please only upload original paintings that are exclusively yours.</p>
-<p><span>•</span> If you still have any questions please contact us <u>harsh@gmail.com.</u></p>
+<p><span>•</span> If you still have any questions please contact us <u>smit@gmail.com.</u></p>
 <br>
 <p><span>Tips before you courier paintings:</span></p>
 <p><span>•</span> Roll the painting & put into the box.</p>
@@ -63,6 +63,7 @@ u{
 </div>
 </div>
 </section>
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
 </body>
 </html>

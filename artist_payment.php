@@ -38,6 +38,7 @@ include 'artist_header.php'; ?>
    </div><br>
 </section>
 <center><button onclick="window.print()" class="btnn" id="remove">print report</button></center>
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
 </body>
 </html>

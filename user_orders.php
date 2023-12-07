@@ -118,6 +118,7 @@ if(isset($_POST['order_btn'])){
       <center><input type="submit" value="order now" class="btn" name="order_btn"></center>
    </form>
 </section>
+<?php include 'footer.php'; ?>
 <script src="js/script.js"></script>
 </body>
 </html>

@@ -77,6 +77,7 @@ if(isset($_GET['delete_all'])){
    <center><a href="user_orders.php" class="btn <?php echo ($grand_total > 1)?'':'disabled'; ?>">proceed to checkout&#8594;</a>
 </section>
 </div>
+<?php include 'footer.php'; ?>
 <script src="js/script.js"></script>
 </body>
 </html>

@@ -134,6 +134,7 @@ if(!isset($admin_id)){
 
    </div>
 </section>
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
 </body>
 </html>

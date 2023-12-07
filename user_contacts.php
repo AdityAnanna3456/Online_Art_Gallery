@@ -44,6 +44,7 @@ if(isset($_POST['send'])){
    </form>
 <?php } ?>
 </section>
+<?php include 'footer.php'; ?>
 <script src="js/script.js"></script>
 </body>
 </html>

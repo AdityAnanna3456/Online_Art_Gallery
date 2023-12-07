@@ -33,6 +33,7 @@ include 'add_to_cart.php';
    ?>
 </div>
 </section>
+<?php include 'footer.php'; ?>
 <script src="js/script.js"></script>
 </body>
 </html>

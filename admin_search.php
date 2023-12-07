@@ -71,8 +71,9 @@ if(!isset($admin_id)){
 ?>
 </div>
 </section>
-
+<?php include 'footer.php'; ?>
 <script src="src.js"></script>
+
 <center><button onclick="window.print()" class="btnn">print report</button></center>
 </body>
 </html>
