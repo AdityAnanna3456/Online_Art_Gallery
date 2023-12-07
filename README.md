@@ -19,5 +19,4 @@ Online Art Gallery is an online application, which is used to manage all informa
 * after importing successfully, open any browser and type http://localhost/artgallery
 * first register and then login
 * admin login details Email=bob@yahoo.com or  Password=bobworld567.
-user login details Email= adityananna14@gmail.com or  Password=Adityvirgo890.
-artist login details Email=smit@gmail.com or  Password=smithouse78.
+* artist login details Email=smit@gmail.com or  Password=smithouse78.
